@@ -188,18 +188,15 @@
 .cart-summary-header h1{
   font-weight: bold;
 }
-.cart-summary-header h1{
-  color: #16a34a; 
+.cart-summary-header h1{ 
   margin: 0;
 }
 .cart-total{
-  color: #16a34a;
   margin-top: 16px;
   font-size: large;
   font-weight: bold;
 }
 .total-items{
-  color: #16a34a;
   font-size: large;
   font-weight: bold;
 }
